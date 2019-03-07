@@ -1,0 +1,50 @@
+.picone{
+    display:flex;
+    justify-content:center;
+    background-image:linear-gradient(red,white,blue);
+    
+}
+.name{
+    display:flex;
+    justify-content:center;
+    font-family: 'Text Me One', sans-serif;
+    color:midnightblue;
+    background-image:linear-gradient(to top left ,red,white,blue);
+    text-decoration:underline overline;
+}
+h1{
+    font-size:70px;   
+}
+button{
+    display:flex;
+    justify-content:center;
+    color:red;
+    background-image:linear-gradient(white,coral,lightsalmon,white,lightsalmon,coral,white);
+    margin:auto;
+    margin-bottom:40px;
+    font-size:25px;
+    border-radius:30px;
+}
+.prezpics{
+    display:flex;
+}
+.achone{
+    display:flex;
+    background-image:linear-gradient(to bottom left ,mediumspringgreen,darkturquoise,darkcyan);
+    font-family: 'Shadows Into Light', cursive;
+}
+.achtwo{
+    display:flex;
+    background-image:linear-gradient(to top left,palevioletred,coral,gold);
+    font-family: 'Shadows Into Light', cursive;
+}
+.slog{
+    font-size:70px; 
+    background-image:linear-gradient(to bottom right ,khaki,black,teal,black,khaki);
+    font-family: 'Bungee', cursive;
+    color:gold;  
+    text-decoration:dotted underline ;
+}
+body {
+    background-image:linear-gradient(white,red,blue,red,white);   
+}
